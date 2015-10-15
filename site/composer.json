@@ -43,7 +43,9 @@
     "wpackagist-plugin/w3-total-cache": "0.9.4.1",
     "wpackagist-plugin/custom-field-suite": "^2.4",
     "wpackagist-plugin/custom-post-type-ui": "^1.1",
-    "wpackagist-plugin/contact-form-7": "^4.3"
+    "wpackagist-plugin/contact-form-7": "^4.3",
+    "wpackagist-plugin/codepress-admin-columns": "^2.4",
+    "wpackagist-plugin/foobox-image-lightbox": "^1.0"
   },
   "extra": {
     "installer-paths": {

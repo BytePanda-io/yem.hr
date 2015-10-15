@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "56a81407908aef06c456fd1fa24ffdbf",
-    "content-hash": "a65484c3799a02c812bee1e26095fde9",
+    "hash": "55668bc30bbf939328a6c47b0f332656",
+    "content-hash": "8cfc92ef145ce5c96faee7ff05549b04",
     "packages": [
         {
             "name": "composer/installers",
@@ -276,6 +276,26 @@
             "time": "2015-05-30 16:15:01"
         },
         {
+            "name": "wpackagist-plugin/codepress-admin-columns",
+            "version": "2.4.7",
+            "source": {
+                "type": "svn",
+                "url": "http://plugins.svn.wordpress.org/codepress-admin-columns/",
+                "reference": "tags/2.4.7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/codepress-admin-columns.2.4.7.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/codepress-admin-columns/"
+        },
+        {
             "name": "wpackagist-plugin/contact-form-7",
             "version": "4.3",
             "source": {
@@ -334,6 +354,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/custom-post-type-ui/"
+        },
+        {
+            "name": "wpackagist-plugin/foobox-image-lightbox",
+            "version": "1.0.8",
+            "source": {
+                "type": "svn",
+                "url": "http://plugins.svn.wordpress.org/foobox-image-lightbox/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/foobox-image-lightbox.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/foobox-image-lightbox/"
         },
         {
             "name": "wpackagist-plugin/foogallery",
